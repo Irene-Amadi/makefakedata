@@ -6,3 +6,5 @@ columns_headers = [
 # dara = 'cholesterol_level, family_diabetes_history, social_media_usage, sleep_duration
 
 # irene = diabetes_pedigree_function, diet_type, physical_activity_level, 
+
+# diet_type = [paleo, atkins, vegan, carnivore]
